@@ -1,0 +1,32 @@
+New
+course oop csf111 amit dua
+New
+teacher amit prof@bits 7234724722 
+New
+student tushar f20190291 9799496561 2019 5
+New
+student shubham f20190373 7738388322 2019 5
+Add
+course oop teacher amit
+Add
+course oop student 2019C5TS1
+View
+student 2019C5TS1
+Delete
+student 2019C5TS2
+Add
+marks oop 2019C5TS1 5 85 A- teacher amit
+View
+course oop
+Modify details
+student admin
+tk f20190293 99000000 2019C5TS1 65
+Modify marks
+oop 2019C5TS1 45 100 A teacher
+View
+student 2019C5TS1
+Delete marks
+oop 2019C5TS1 admin
+View
+course oop
+END

@@ -1,0 +1,252 @@
+Welcome To School Management System
+Welcome to BITS Pilani , Pilani Campus
+New User:
+Admin is added
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name email phone year_of_admission class_enrolled
+New User:
+Student is added : tushar
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name email phone year_of_admission class_enrolled
+New User:
+Student is added : shubham
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name email phone year_of_admission class_enrolled
+New User:
+Student is added : chinmay
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name email phone year_of_admission class_enrolled
+New User:
+Student is added : kk
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name email phone 
+New User:
+Teacher is added : amit
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name email phone 
+New User:
+Teacher is added : anu
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name course_id teacher 
+New course oop is added under Professor amit
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name course_id teacher 
+New course advd is added under Professor anu
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student/teacher id/name 
+Course oop is now under Professor amit
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student/teacher id/name 
+Course advd is now under Professor amit
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student/teacher id/name 
+Student tushar is now enrolled in course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student/teacher id/name 
+Student kk is now enrolled in course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student/teacher id/name 
+Student shubham is now enrolled in course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student/teacher id/name 
+Student kk is now enrolled in course advd
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student/teacher id/name 
+Student chinmay is now enrolled in course advd
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student_id attendance marks grade changed_by name
+Student tushar marks are added in course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student_id attendance marks grade changed_by name
+Student shubham marks are added in course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student_id attendance marks grade changed_by name
+Student kk marks are added in course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student_id attendance marks grade changed_by name
+Student chinmay marks are added in course advd
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student_id attendance marks grade changed_by name
+Student kk marks are added in course advd
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+course oop
+Course : oop
+Course_id : CSF111
+Professor : amit
+Students enrolled : 3
+1) shubham
+Attendace 82
+Marks 98
+Grade A
+2) kk
+Attendace 91
+Marks 89
+Grade A-
+3) tushar
+Attendace 87
+Marks 96
+Grade A
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+course advd
+Course : advd
+Course_id : EEEF111
+Professor : amit
+Students enrolled : 2
+1) kk
+Attendace 82
+Marks 85
+Grade B
+2) chinmay
+Attendace 77
+Marks 87
+Grade B
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+student 2019C8TS4
+Details of Student - kk
+ID : 2019C8TS4
+Attendance : 85
+email : f20190329
+phone : 8888768977
+Courses enrolled : 2
+1. oop
+Grade : A-
+Marks : 89
+2. advd
+Grade : B
+Marks : 85
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Delete
+Please enter: course/teacher/student name/name/id 
+Teacher - anu is deleted
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+course advd
+Course : advd
+Course_id : EEEF111
+Professor : amit
+Students enrolled : 2
+1) kk
+Attendace 82
+Marks 85
+Grade B
+2) chinmay
+Attendace 77
+Marks 87
+Grade B
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+student 2019C8TS4
+Details of Student - kk
+ID : 2019C8TS4
+Attendance : 85
+email : f20190329
+phone : 8888768977
+Courses enrolled : 2
+1. oop
+Grade : A-
+Marks : 89
+2. advd
+Grade : B
+Marks : 85
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Modify details
+Please enter: course/teacher/student modified_by  
+name email phone ID attendance 
+Details of Student - kk are modified by admin
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+student 2019C8TS4
+Details of Student - kartikeya
+ID : 2019C8TS4
+Attendance : 76
+email : f20190329
+phone : 847493933
+Courses enrolled : 2
+1. oop
+Grade : A-
+Marks : 89
+2. advd
+Grade : B
+Marks : 85
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Modify marks
+Please enter: course_name student_id attendance marks grade modified_by 
+Student shubham marks are modified in course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+student 2019C8TS2
+Details of Student - shubham
+ID : 2019C8TS2
+Attendance : 85
+email : f20190373
+phone : 979917788
+Courses enrolled : 1
+1. oop
+Grade : A
+Marks : 100
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Delete marks
+Please enter: course_name student_id  modified_by 
+Student tushar is removed from course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+teacher amit
+Details of Teacher - amit
+email : prof1@pilani
+phone : 9897778009
+Courses : 2
+1. oop
+2. advd
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+END

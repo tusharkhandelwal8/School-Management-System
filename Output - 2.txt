@@ -1,0 +1,107 @@
+Welcome To School Management System
+Welcome to BITS Pilani , Pilani Campus
+New User:
+Admin is added
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name course_id teacher 
+New course oop is added under Professor amit
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name email phone 
+New User:
+Teacher is added : amit
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name email phone year_of_admission class_enrolled
+New User:
+Student is added : tushar
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+New
+Please enter: new_type - student teacher course
+Please enter: name email phone year_of_admission class_enrolled
+New User:
+Student is added : shubham
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student/teacher id/name 
+Course oop is now under Professor amit
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student/teacher id/name 
+Student tushar is now enrolled in course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+student 2019C5TS1
+Details of Student - tushar
+ID : 2019C5TS1
+Attendance : 85
+email : f20190291
+phone : 9799496561
+Courses enrolled : 1
+1. oop
+Grade : null
+Marks : null
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Delete
+Please enter: course/teacher/student name/name/id 
+Student - shubham is deleted
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Add
+Please enter: add_type - marks course
+Please enter: course_name student_id attendance marks grade changed_by name
+Student tushar marks are added in course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+course oop
+Course : oop
+Course_id : csf111
+Professor : amit
+Students enrolled : 1
+1) tushar
+Attendace 5
+Marks 85
+Grade A-
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Modify details
+Please enter: course/teacher/student modified_by  
+name email phone ID attendance 
+Details of Student - tushar are modified by admin
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Modify marks
+Please enter: course_name student_id attendance marks grade modified_by 
+Student tk marks are modified in course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+student 2019C5TS1
+Details of Student - tk
+ID : 2019C5TS1
+Attendance : 65
+email : f20190293
+phone : 99000000
+Courses enrolled : 1
+1. oop
+Grade : A
+Marks : 100
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+Delete marks
+Please enter: course_name student_id  modified_by 
+Student tk is removed from course oop
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+View
+Please enter: course/teacher/student name/name/id 
+course oop
+Course : oop
+Course_id : csf111
+Professor : amit
+Students enrolled : None
+Choose either - New, Add, Delete, View, Modify details/marks, Delete marks END 
+END
